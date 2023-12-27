@@ -1,0 +1,14 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
